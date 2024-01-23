@@ -1,0 +1,44 @@
+.operator{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    font-size: 25px;
+    border: 2px solid black;
+    margin: 5px;
+}
+.orange{
+   background-color: orange; 
+   color: white;
+}
+.dark-grey{
+    background-color: rgb(84, 83, 83);
+    color: white;
+}
+.light-grey{
+    background-color: rgb(165, 165, 165);
+    color: white;
+} 
+#label{
+    text-align: right;
+    color: white;
+    font-size:50px ;
+}
+.mytable{
+    background-color: black;
+    margin: auto;
+    border-radius: 30px;
+}
+.zero{
+    width: 180px;
+    height: 70px;
+    border-radius: 35px;
+    font-size: 25px;
+    border: 2px solid black;
+    margin: 5px;
+    padding-right: 118px;
+}
+#cool-bros{
+    text-align: center;
+    margin: 20px;
+    color: orange;
+}
